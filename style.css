@@ -1,0 +1,13 @@
+.container{
+    width: 1000px;
+    height: 1000px;
+    margin: auto;
+    border: 1px solid lightgrey;
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.pixel-box{
+    width: 10px;
+    height: 10px;
+    background-color: bisque;
+}
